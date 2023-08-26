@@ -1,0 +1,2 @@
+- Single Instruction, Multiple Data
+	- Single Register is packing multiple pieces of data

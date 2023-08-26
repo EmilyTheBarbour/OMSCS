@@ -1,0 +1,1 @@
+- [ ] Complete Lecture 📅 2023-08-27 

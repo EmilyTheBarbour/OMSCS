@@ -1,0 +1,1 @@
+Only 1 instruction is assured in a cycle.

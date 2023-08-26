@@ -1,0 +1,1 @@
+Method to attempt to utilize different registers in order to decouple false [[Data Dependencies]], i.e avoiding WAW and WAR dependencies.

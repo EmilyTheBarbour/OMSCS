@@ -1,0 +1,4 @@
+- Simultaneous Multithreading (SMT):
+	- Hyper-Threading
+		- Same [[ALU]] is shared by 2 different threads interweaving instructions
+		- Each thread has a separate set of registers, but shared functional units

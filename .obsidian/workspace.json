@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e898809aa3fe7722",
+        "id": "44f8857fbd37459c",
         "type": "tabs",
         "children": [
           {
-            "id": "ae8581c8be555250",
+            "id": "245afab8766beaee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Embeded Systems Optimization/Lectures/Part 1/L1 Review of Computer Arch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embeded Systems Optimization/Lectures/Part 1/L1 Review of Computer Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embeded Systems Optimization/Lectures/Part 1/L1 Review of Computer Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embeded Systems Optimization/Lectures/Part 1/L1 Review of Computer Arch.md"
+              }
             }
           },
           {
@@ -128,13 +136,29 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b1f8917fcc1c67e1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2578901b1f667e8b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,6 +171,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae8581c8be555250",
-  "lastOpenFiles": []
+  "active": "2578901b1f667e8b",
+  "lastOpenFiles": [
+    "Fall 23 Tasks.md",
+    "Embeded Systems Optimization/Class Tasks.md",
+    "Embeded Systems Optimization/Lectures/Part 1/L1 Review of Computer Arch.md",
+    "Embeded Systems Optimization/Lectures/Part 1/L2 Review of VLIW.md",
+    "Embeded Systems Optimization/Concepts/Micro-SIMD.md",
+    "Embeded Systems Optimization/Concepts/Multithreading and Multiprocessing.md",
+    "Embeded Systems Optimization/Concepts/Vector Processing.md",
+    "Embeded Systems Optimization/Concepts/Control Dependencies.md",
+    "Embeded Systems Optimization/Concepts/Register Renaming.md",
+    "Embeded Systems Optimization/Concepts/Conditional Move.md",
+    "Embeded Systems Optimization/Concepts/Predication.md",
+    "Embeded Systems Optimization/Concepts/Speculation.md",
+    "Embeded Systems Optimization/Concepts/VLIW.md",
+    "Embeded Systems Optimization/Concepts/VEX.md",
+    "Embeded Systems Optimization/Concepts/Dismissable Loads.md",
+    "Embeded Systems Optimization/Concepts/Branch Prediction.md",
+    "Embeded Systems Optimization/Concepts/Super Scalars.md",
+    "Embeded Systems Optimization/Lectures/Part 1/Chapter 2 Embeded Computer Text Book.md",
+    "Embeded Systems Optimization/Lectures/Part 1/Chapter 1 Embeded Computer Text Book.md",
+    "Embeded Systems Optimization/Concepts/Data Dependencies.md",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826164947.png",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826164815.png",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826164637.png",
+    "Embeded Systems Optimization/Concepts/Branches.md",
+    "Embeded Systems Optimization/Concepts/Pipelines.md",
+    "Embeded Systems Optimization/Concepts/RISC.md",
+    "Embeded Systems Optimization/Concepts/Pipeline Flush.md",
+    "Embeded Systems Optimization/Concepts/Out of Order Processors.md",
+    "Embeded Systems Optimization/Concepts/Bubble.md",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826161106.png",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826153412.png",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826145301.png",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826145301 1.png",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826150429.png",
+    "Embeded Systems Optimization/Lectures/Part 1/Images/Pasted image 20230826144135.png",
+    "Embeded Systems Optimization/Lectures/Part 1/Images",
+    "Embeded Systems Optimization/Lectures/Part 1",
+    "Embeded Systems Optimization/Concepts",
+    "Embeded Systems Optimization/Lectures",
+    "Other TEst",
+    "Embeded Systems Optimization",
+    "Daily Notes"
+  ]
 }
